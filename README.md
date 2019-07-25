@@ -1,3 +1,6 @@
+Preview link - https://deebindal.github.io/huddle-landing-page-with-decorative-elements/
+
+
 # Frontend Mentor - Huddle landing page with coded decorative elements
 
 ![Design preview for the Huddle landing page with coded decorative elements challenge](./design/desktop-preview.jpg)
